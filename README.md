@@ -1,6 +1,3 @@
-Certainly! Here's a sample README.md paragraph for your Counter Program project:
-
----
 
 # Counter Program
 
